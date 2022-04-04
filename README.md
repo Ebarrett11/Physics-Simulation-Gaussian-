@@ -1,5 +1,5 @@
 # Physics-Simulation-Gaussian-
-Project made for research assistant program at Michigan State University
+Project made for professorial assistant program at Michigan State University
 ## Functionality
 Detailed below is the simulation of balls along a string. The balls are treated as springs with
 equilibrium length l = 1m. On either side of the string is a fixed ball with a spring constant of 3K
